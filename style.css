@@ -1,0 +1,5 @@
+.wp-block-kcc-journey-estimator { padding: clamp(1rem,4vw,2.5rem); border: 1px solid currentColor; }
+.kcc-estimator-controls { display: grid; gap: 1rem; }
+.kcc-estimator-controls select { font: inherit; padding: .35em; }
+.kcc-estimator-controls label { display: block; }
+.kcc-estimator-controls p { margin: 0 0 .4rem; }

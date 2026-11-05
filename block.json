@@ -1,0 +1,15 @@
+{
+  "apiVersion": 3,
+  "name": "kcc/journey-estimator",
+  "title": "KCC Journey Estimator",
+  "category": "widgets",
+  "icon": "calculator",
+  "description": "An interactive tour estimate using example rates.",
+  "supports": {
+    "html": false
+  },
+  "editorScript": "file:./editor.js",
+  "viewScript": "file:./loader.js",
+  "render": "file:./render.php",
+  "style": "file:./style.css"
+}
